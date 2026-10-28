@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./gorjo.jpg" width="300" />
+<img src="./This is gojo.jpg" width="300" />
 
 <br>
 
